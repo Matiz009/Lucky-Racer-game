@@ -5,7 +5,7 @@ public class AutomaticCar
   private String year;
   private int speed;
   private int gear;
-  int distance=0;
+  int distance = 0;
 
   public AutomaticCar (String model, String year)
   {
